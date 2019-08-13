@@ -1,0 +1,74 @@
+[
+	{
+		"sender_name": "Abc Def",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. ",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Jan 2"
+	},
+	{
+		"sender_name": "Ghi Jkl",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Apr 20"
+	},
+	{
+		"sender_name": "Mno Pqr",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "sun"
+	},
+	{
+		"sender_name": "Stu Vwx",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. ",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Thu"
+	},
+	{
+		"sender_name": "Yz ABC",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard ",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Thu"
+	},
+	{
+		"sender_name": "Def Ghi",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Aug 8"
+	},
+	{
+		"sender_name": "Jkl Mno",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. ",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Jan 2"
+	},
+	{
+		"sender_name": "Pqr Stu",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Apr 20"
+	},
+	{
+		"sender_name": "Vwx Yz",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "sun"
+	},
+	{
+		"sender_name": "Jkl Mno",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry.",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Thu"
+	},
+	{
+		"sender_name": "Pqr Stu",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Thu"
+	},
+	{
+		"sender_name": "Vwx Yz",
+		"message": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+		"sender_img": "https://everydaynutrition.co.uk/wp-content/uploads/2015/01/default-user-avatar.png",
+		"date_time": "Aug 8"
+	}
+]
