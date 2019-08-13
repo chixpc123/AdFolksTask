@@ -9,8 +9,18 @@ export default StyleSheet.create({
 		height: 70,
 		width: "100%",
 		backgroundColor: "white",
-		elevation: 10
+		elevation: 10,
+		position: "relative"
 	},
+	textInputContainer: {
+		position: "absolute",
+		left: 20,
+		right: 80,
+		borderBottomWidth: 1,
+		borderBottomColor: "black"
+	},
+	textInput: { height: 40, width: "100%" },
+
 	msgContainer: {
 		flex: 1,
 		flexDirection: "row"
@@ -33,5 +43,6 @@ export default StyleSheet.create({
 		flexDirection: "row",
 		marginTop: -25
 	},
+	menuIconMargin: { marginRight: 40 },
 	headerIcon: { height: 20, width: 20, marginHorizontal: 10 }
 });
